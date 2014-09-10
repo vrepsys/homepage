@@ -25,20 +25,12 @@ a {
   font-weight: 400;
 }
 
-.infobit legend {
-  color: #444;
-  font-size: 16px;
-  font-weight: 900;
-  margin-bottom: 1px;
-  line-height: 30px;
+.infobit p {
+  text-align: justify;
 }
 
-.paragraph-title {
-  color: #444;
-  font-size: 16px;
-  font-weight: 900;
-  margin-bottom: 1px;
-  line-height: 30px;
+.infobit p .highlight {
+  font-weight: 600;
 }
 
 .rounded-img {
